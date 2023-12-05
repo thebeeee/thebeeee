@@ -10,7 +10,11 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
 - Skript Developer
 - Python Discord bot Developer
 - Learning Java
-
+  
+## 🚀 Projects
+- A Minecraft server that is out of this world! 👽
+  Website: COMING SOON
+  Discord Server: COMING SOON
 ## 🔗 Links
 
 [![carrd](https://img.shields.io/badge/Carrd-FFBF00?style=for-the-badge&logo=carrd)](https://thebeemc.carrd.co/)
