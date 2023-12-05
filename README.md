@@ -11,7 +11,7 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
 - Python Discord bot Developer
 - Learning Java
   
-## 🚀 Projects
+## 🪄 Projects
 - A Minecraft server that is out of this world! 👽
 - Website: COMING SOON
 - Discord Server: COMING SOON
