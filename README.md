@@ -12,6 +12,8 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
 - Learning Java
   
 ## 🪄 Projects
+- Spellbrook ✨
+- Website: https://spellbrook.carrd.co/
 - A Minecraft server that is out of this world! 👽
 - Website: COMING SOON
 - Discord Server: COMING SOON
