@@ -15,6 +15,9 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
 - Spellbrook ✨
 - Website: https://spellbrook.gg/
 
+- NebulaMC 🪐
+- Discord: https://discord.nebulamc.org/
+
 ##
 ## 🔗 Links
 
