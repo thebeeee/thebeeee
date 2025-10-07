@@ -15,12 +15,7 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
 - Spellbrook ✨
 - Website: https://spellbrook.gg/
 ##
-- BuildTheWorld 🌍
-- Website: COMING SOON
-##
-- A Minecraft server that is out of this world! 👽
-- Website: COMING SOON
-- Discord Server: COMING SOON
+
 ##
 ## 🔗 Links
 
