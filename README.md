@@ -3,7 +3,7 @@
 
 Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server owner and a developer who is learning a large range of skills! 🐝
 
-[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-8A2BE2)](buymeacoffee.com/thebee)
+[Buy Me A Coffee <3](buymeacoffee.com/thebee)
 
 ## 🚀 Skills
 - Project Manager
