@@ -14,10 +14,12 @@ Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server 
   
 ## 🪄 Projects
 - Spellbrook ✨
-- Website: https://spellbrook.gg/
+At Spellbrook I am the Development Assistant where I manage a team of talented developers and respond to community bug reports & suggestions.
+**Website: https://spellbrook.gg/**
 
 - NebulaMC 🪐
-- Discord: https://discord.nebulamc.org/
+After being a developer and Admin on NebulaMC for many years I became Owner in order to bring new life back into the server. NebulaMC is currently at a hiatus.
+**Discord: https://discord.nebulamc.org/**
 
 ##
 ## 🔗 Links
