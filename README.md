@@ -1,5 +1,5 @@
 
-# Hi, I'm thebee! 👋
+# Hi, I'm Sylvie! 👋
 
 Hey there! My name is Sylvie, or known online as thebee, I'm a Minecraft server owner and a developer who is learning a large range of skills! 🐝
 
